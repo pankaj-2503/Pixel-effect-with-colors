@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color: black;
+}
+#canvas1{
+   border: 2px solid goldenrod;
+   position: absolute;
+   top:50%;
+   left:50%;
+   transform: translate(-50%,-50%);  /*for centering box*/
+   width:500px;
+   height:600px;
+}
